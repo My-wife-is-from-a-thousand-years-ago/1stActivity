@@ -7,3 +7,6 @@
 # ### [Mark Dela Cruz]
 * **September 3, 2026:** Replaced the placeholder text in the "Gallery" and "Contact" sections of index.html with a photo and caption in the Gallery section, and a contact email link in the Contact section.
 * **Mistakes caught:** N/A, NONE
+# ### [Mark Dela Cruz]
+* **September 3, 2026:** Added CSS, Some More Picture for the Gallery, Added better contact, Fixed Image resize.
+* **Mistakes caught:** Image size too big.
