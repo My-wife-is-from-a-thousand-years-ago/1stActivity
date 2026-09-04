@@ -10,3 +10,6 @@
 * **Contact: populated placeholder with mailto link
 * **Task 3: intentionally broke practice-page.html HTML, opened PR to trigger failing Test HTML check and fixed it.
 * **Mistakes caught: Gallery image was too big on first upload  fixed with CSS 
+# ### [Joshua Anunciacion]
+* **September 4, 2026:** Synced fork with the latest `main` branch and added a new "Announcements" section to `practice-page.html`. Verified that the automated HTML tests passed and successfully merged the pull request.
+* **September 4, 2026:** Fixed a deliberate HTML error in a collaborator's open pull request thus failing the automated checks.
