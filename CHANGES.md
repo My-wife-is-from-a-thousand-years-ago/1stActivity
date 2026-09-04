@@ -15,3 +15,4 @@
 * **September 4, 2026:** Synced fork with the latest `main` branch and added a new "Announcements" section to `practice-page.html`. Verified that the automated HTML tests passed and successfully merged the pull request.
 * **September 4, 2026:** accidentally made an HTML with no error.
 * **September 4, 2026:** made a deliberate HTML error in a collaborator's open pull request thus failing the automated checks.
+* **September 4, 2026:** made changes to the index.html giving it a slight light blue tint.
