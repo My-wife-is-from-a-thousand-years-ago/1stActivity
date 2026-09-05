@@ -23,11 +23,13 @@ Record all of the changes that you made here. One entry per pull request
 - **September 4, 2026:** accidentally made an HTML with no error.
 - **September 4, 2026:** made a deliberate HTML error in a collaborator's open pull request thus failing the automated checks.
 - **September 4, 2026:** made changes to the index.html giving it a slight light blue tint.
-
+- 
 ## [Mark Dela Cruz]
 **September 3, 2026**
-- Gallery: added images for gallery section <img> + caption,
-- fixed oversized image with inline CSS (max-width / height:auto)
-- Contact: populated placeholder with mailto link
-- Task 3: intentionally broke practice-page.html HTML, opened PR to trigger failing Test HTML check and fixed it.
-- Mistakes caught: Gallery image was too big on first upload  fixed with CSS 
+- index.html: Gallery section — added images with <img> + caption, fixed oversized image with inline CSS.
+- index.html: Contact section — added placeholder with mailto link.
+- Task 3: synced fork with latest main, then intentionally broke practice-page.html by removing a closing tag. Opened a pull request into main and confirmed the Test HTML check failed, then pushed a follow-up commit to fix the tag and confirmed the check turned green before merging.
+- Guided Josh through Task 4 (adding a new section to practice-page.html).
+- Mistakes caught: Gallery image was too big on first upload, fixed with CSS. Also closed failed forks & broken pull requests.
+**September 5, 2026**
+- Reviewed and updated my CHANGES.md entries for clarity and accuracy.
